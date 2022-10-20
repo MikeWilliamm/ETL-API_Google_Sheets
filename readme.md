@@ -1,5 +1,5 @@
 ## Objetivo
-Desenvolver um pipeline de dados ETL(Extract, transform, load) que se conecta a API do google sheets, acessa o google planilhas, coleta os dados, trata e transforma esses dados, e finalmente carrega os dados em um sistema gerenciador de banco de dados relacional.
+Desenvolver um pipeline de dados ETL(Extract, transform, load) que se conecta a API do google sheets, acessa o google planilhas, coleta os dados transformando-os em dataframe python, em seguida, trata e transforma esses dados, e finalmente carrega os dados em um sistema gerenciador de banco de dados relacional.
 
 ## Solução proposta
 <b>Stacks:</b> 
