@@ -12,7 +12,7 @@ Desenvolver um pipeline de dados ETL(Extract, transform, load) que se conecta a 
 
 
 ## Resultados
-<b>Problemas resolvidos:</b> Houve uma complexidade na hora de realizar as permissões de acesso corretamente, pois para que o programa consiga se conectar é necessário fazer uma chave de acesso de formato json,  e a também foi um desafio fazer a configuração do script para acessar a planilha corretamente, já que se utiliza bibliotecas novas que eu ainda possuía conhecimento, mas com a pesquisa e leitura de conteúdos, foi possível solucionar os problemas e finalizar o desenvolvimento com sucesso.
+<b>Problemas resolvidos:</b> Houve uma complexidade na hora de realizar as permissões de acesso corretamente, pois para que o programa consiga se conectar é necessário fazer uma chave de acesso de formato json,  e a também foi um desafio fazer a configuração do script para acessar a planilha corretamente, já que se utiliza bibliotecas novas que eu ainda não possuía conhecimento, mas com a pesquisa e leitura de conteúdos, foi possível solucionar os problemas e finalizar o desenvolvimento com sucesso.
 Fontes de conhecimento para todo o desenvolvimento do programa, com a parte técnica de configuração, ativação da API, e a geração de permissões necessária para o possível acesso à planilha:
 https://ichi.pro/pt/como-ativar-o-acesso-do-python-ao-planilhas-google-250853149332571 - chave de acesso json
 https://pt.linkedin.com/pulse/manipulando-planilhas-do-google-usando-python-renan-pessoa - configuração de acesso script
